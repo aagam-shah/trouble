@@ -5,7 +5,11 @@ buildscript {
         mavenCentral()
     }
     dependencies {
+<<<<<<< HEAD
         classpath 'com.android.tools.build:gradle:0.9.+'
+=======
+        classpath 'com.android.tools.build:gradle:0.8.+'
+>>>>>>> 71d0362784b08f23a9428cf51de1f325e0da601e
     }
 }
 
